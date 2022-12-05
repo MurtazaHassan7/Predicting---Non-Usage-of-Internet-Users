@@ -1,4 +1,9 @@
 # Predicting---Non-Usage-of-Internet-Users
+This is an R Project in which through different ways prediction was made related to Non-Usage of Internet.
+I predicted it through Logistic Regression, Random Forest and Naive Bayes Theorem.
+Exploratory Data Analysis were also performed.
+
+
 
 The 2009 Canadian Internet Use Survey dataset was taken from the Stats Canada website, 
 and it is about the non-use of the internet by individual residents of Canada 15 years of age and over,
